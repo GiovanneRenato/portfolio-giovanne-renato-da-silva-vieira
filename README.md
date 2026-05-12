@@ -1,5 +1,5 @@
-# [Giovanne Renato Da Silva Vieira]
-> Estudante de [Ciência da Computação]
+# Giovanne Renato Da Silva Vieira
+> Estudante de Ciência da Computação
  
 ---
  
@@ -11,11 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [7º] período de [Ciência da Computação] na [Unicid]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Análise de Dados].
+Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de Dados.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** Ex: Python, Java, SQL, AWS, Docker.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [projetos pessoais] onde desenvolvi [https://projeto-farmacia.netlify.app/].
+* **Experiência/Projetos Relevantes:** Atuei em projetos pessoais onde desenvolvi [https://projeto-farmacia.netlify.app/].
  
 ---
  
