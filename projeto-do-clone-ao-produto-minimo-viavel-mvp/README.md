@@ -32,7 +32,7 @@ A plataforma foi otimizada para oferecer uma experiência fluida e orientada a d
 * **Monitoramento de Eventos:** Telemetria via Analytics para rastrear downloads, compartilhamentos e o conteúdo mais frequente nos códigos.
 * **Design Sistêmico:** Implementação de uma arquitetura de temas baseada em variáveis CSS para fácil manutenção da estética "Elegant Dark".
 
-![Visualização de Customização](./qrvibe/qrvibe2)
+![Visualização de Customização](./qrvibe2)
 *Figura 2: Detalhes do sistema de seleção de cores e integração com o motor de renderização.*
 
 ## 🔧 Como Executar
