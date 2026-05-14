@@ -31,7 +31,7 @@ O projeto foi estruturado para garantir precisão contábil e praticidade no uso
 * **Segurança e Perfil:** Área dedicada ao "Meu Perfil" e "Configurações" para customização de preferências e proteção de dados sensíveis.
 
 ## 🔧 Como Executar
-1. Clone o repositório: `git clone https://github.com/seu-usuario/finapp.git`.
+1. Clone o repositório: `git clone https://github.com/seu-usuario/finapp.git](https://github.com/GiovanneRenato/Laborat-rio-de-Engenharia-Reversa`.
 2. Configure as credenciais do Firebase (ou do seu backend) no arquivo `.env` na raiz do projeto.
 3. Instale as dependências executando: `npm install` ou `yarn install`.
 4. Inicie o servidor de desenvolvimento: `npm run dev` ou `yarn dev`.
