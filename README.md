@@ -15,7 +15,7 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
  
 * **Habilidades Técnicas:** Ex: Python, Java, SQL, AWS, Docker.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em projetos pessoais onde desenvolvi o [![Projeto farmácia](./FarmaciaLogo.png)](https://projeto-farmacia.netlify.app/).
+* **Experiência/Projetos Relevantes:** Atuei em projetos pessoais onde desenvolvi o [![Projeto farmácia](./FarmaciaLogo.png)(https://projeto-farmacia.netlify.app/)].
  
 ---
  
