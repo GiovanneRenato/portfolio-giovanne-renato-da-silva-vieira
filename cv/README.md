@@ -1,47 +1,10 @@
 <div align="center">
 
-# 🚀 Nome do Projeto
+# 🚀 Currículo
 
-Descrição curta do seu projeto aqui.
+Aqui seria o meu currículo, fique a vontade para dar uma olhada :relaxed:.
 
 <br>
-
-<a href="./arquivo.pdf" download>
-  <img src="https://img.shields.io/badge/📄_Baixar_PDF-red?style=for-the-badge" />
-</a>
-
-<a href="./arquivo.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/👁️_Visualizar_PDF-blue?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-## 📚 Sobre
-
-Explique aqui o objetivo do projeto, tecnologia usada, funcionamento, etc.
-
----
-
-## 📄 Documentação
-
-Clique no botão abaixo para acessar o PDF:
-
-<a href="./arquivo.pdf">
-  <img src="https://img.shields.io/badge/Abrir_Documentação-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-
----
-
-## 🛠️ Tecnologias
-
-- Python
-- JavaScript
-- HTML/CSS
-- Cisco Packet Tracer
-
----
 
 ## 📷 Preview
 
@@ -50,6 +13,16 @@ Clique no botão abaixo para acessar o PDF:
 </p>
 
 ---
+
+<a href="./currículo.pdf" download>
+  <img src="https://img.shields.io/badge/📄_Baixar_PDF-red?style=for-the-badge" />
+</a>
+
+<a href="./currículo.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/👁️_Visualizar_PDF-blue?style=for-the-badge" />
+</a>
+
+</div>
 
 ## 👨‍💻 Autor
 
