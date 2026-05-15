@@ -37,8 +37,9 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Currículo
+| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-Currículo simples com minhas informações. | [Ver Projeto](./cv) |
+| **Currículo** | Currículo simples com minhas informações. | [Ver Projeto](./cv) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
