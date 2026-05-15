@@ -55,6 +55,4 @@ Clique no botão abaixo para acessar o PDF:
 
 Feito por Giovanne Renato
 
-<a href="[https://github.com/seuusuario](https://github.com/GiovanneRenato/portfolio-giovanne-renato-da-silva-vieira)">
-  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
-</a>
+[Voltar ao início](https://github.com/GiovanneRenato/portfolio-giovanne-renato-da-silva-vieira)
