@@ -8,10 +8,6 @@
 
 ---
 
-<a href="./currículo.pdf" download>
-  <img src="https://img.shields.io/badge/📄_Baixar_PDF-red?style=for-the-badge" />
-</a>
-
 <a href="./currículo.pdf" target="_blank">
   <img src="https://img.shields.io/badge/👁️_Visualizar_PDF-blue?style=for-the-badge" />
 </a>
