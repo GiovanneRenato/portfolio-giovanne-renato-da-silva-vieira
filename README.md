@@ -36,10 +36,9 @@ Atualmente cursando o 7º período de Ciência da Computação na Unicid. Sou ap
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
+#### 🗃️ Currículo
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+Currículo simples com minhas informações. | [Ver Projeto](./cv) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
